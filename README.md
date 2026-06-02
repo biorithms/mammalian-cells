@@ -1,6 +1,5 @@
-# Fundamental of stem cell biology
-
-This repository contains Stem Cell Culture lab manual (2017), protocols, and  other resources related to mammalian cell culture.
+# Mammalian Cell Culture
+This repository contains protocols, lab manual, and  other resources related to mammalian cell culture.
 
 ## Fundamentals of Stem Cell Culture and Techniques
 [Fundamentals of Stem Cell Culture and  Techniques](https://github.com/sci-kick/stemcells/blob/main/pdf/FundamentalStemCell_20170917.pdf) <br>
